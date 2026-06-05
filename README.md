@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 "In order to bake an apple pie, you must first invent the universe"
 
 *find me on:*
-[![Github Badge](https://img.shields.io/badge/github-github-blue?logo=github)](https://github.com/Keinstein0)
+[![Github Badge](https://img.shields.io/badge/-github-blue?logo=github)](https://github.com/Keinstein0)
